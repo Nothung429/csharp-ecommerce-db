@@ -23,13 +23,11 @@ using (ECommerce db = new ECommerce())
     //db.Add(new Order(new DateTime(2013, 08, 13), 12, true));
     //db.Add(new Order(new DateTime(2013, 03, 26), 156, false));
     //db.Add(new Order(new DateTime(2013, 05, 17), 22, true));
-    //db.SaveChanges();
 
     //db.Add(new Payment(new DateTime(2013, 12, 03), 132, false));
     //db.Add(new Payment(new DateTime(2013, 08, 13), 178, false));
     //db.Add(new Payment(new DateTime(2013, 03, 26), 15, true));
     //db.Add(new Payment(new DateTime(2013, 05, 17), 567, false));
-    //db.SaveChanges();
 
     //db.Add(new Product("IPhone", "telefono", 499));
     //db.Add(new Product("IMac", "computer", 1499));
