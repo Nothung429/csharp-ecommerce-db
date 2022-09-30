@@ -14,4 +14,11 @@
     //many-to-many
     public List<Payment> Payments { get; set; }
     public List<Product> Products { get; set; }
+
+    //public Order(DateTime date, int amount, bool status)
+    //{
+    //    Date = date;
+    //    Amount = amount;
+    //    Status = status;
+    //}
 }

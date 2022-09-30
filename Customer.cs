@@ -7,4 +7,11 @@
 
     //one-to-many
     public List<Order> Orders { get; set; }
+
+    //public Customer(string name, string surname, string email)
+    //{
+    //    Name = name;
+    //    Surname = surname;
+    //    Email = email;
+    //}
 }

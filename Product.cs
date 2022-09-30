@@ -7,4 +7,11 @@
 
     //many-to-many
     public List<Order> Orders { get; set; }
+
+    //public Product(string name, string description, int price)
+    //{
+    //    Name = name;
+    //    Description = description;
+    //    Price = price;
+    //}
 }

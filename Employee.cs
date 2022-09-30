@@ -7,4 +7,11 @@
 
     //one-to-many
     public List<Order> Orders { get; set; }
+
+    //public Employee(string name, string surname, string level)
+    //{
+    //    Name = name;
+    //    Surname = surname;
+    //    Level = level;
+    //}
 }
